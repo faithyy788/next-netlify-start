@@ -26,7 +26,7 @@ export default function Home() {
 <h3>My portfolio: </h3>
 
 <h3>Stay in touch </h3>
-<a href=""
+<a href="https://linktr.ee/FaithAdeniji"></a>
 
       </main>
 
