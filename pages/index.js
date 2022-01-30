@@ -26,7 +26,7 @@ export default function Home() {
 <h3>My portfolio: </h3>
 
 <h3>Stay in touch </h3>
-<a href="https://linktr.ee/FaithAdeniji"></a>
+<a href="https://instagram.com/_fayte?igshid=rzjrvjfw09kb"></a>
 
       </main>
 
