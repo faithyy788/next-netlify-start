@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <body>
         <Header title="Welcome to my world!" />
         <p className="description">
           I'm a Web developer<code>A Computer Science graduate from Bowen university</code>
@@ -28,7 +28,7 @@ export default function Home() {
 <h3>Stay in touch </h3>
 <a href="https://instagram.com/_fayte?igshid=rzjrvjfw09kb"></a>
 
-      </main>
+      </body>
 
       <Footer />
     </div>
